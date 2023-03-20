@@ -15,5 +15,6 @@ public class userController {
         System.out.println("hello git4-hos-fix分支checkout2");
         System.out.println("hello git master分支");
         System.out.println("hello git idea test github");
+        System.out.println("push test");
     }
 }
