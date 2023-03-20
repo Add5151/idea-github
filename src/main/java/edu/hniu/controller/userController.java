@@ -16,5 +16,6 @@ public class userController {
         System.out.println("hello git master分支");
         System.out.println("hello git idea test github");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
